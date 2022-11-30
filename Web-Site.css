@@ -45,6 +45,7 @@ html{
     font-size: 2rem;
     color: white;
     margin-top: 15%;
+    user-select: none;
 }
 
 .main-page h1{
